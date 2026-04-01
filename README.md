@@ -120,4 +120,4 @@ online-catering-portal/
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAB&size=24&center=true&vCenter=true&width=600&lines=Code.+Build.+Scale.;Keep+Learning+🚀" />
 </p>
----
+
