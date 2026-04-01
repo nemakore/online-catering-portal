@@ -1,7 +1,7 @@
 # 🍽️ Online Catering Portal
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V5eW1lM2R6aXJtM2x3d3N6bWJqM2Y3Y2V3b2N6c2JkY2N5d2Z4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+Online+Catering+Portal;PHP+Based+Full+Stack+Project;Build.+Deploy.+Scale.+🚀" />
 </p>
 
 <p align="center">
@@ -30,6 +30,9 @@
 * 🗄️ MySQL Database Integration
 * ⚡ Dynamic Content Rendering
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+</p>
 ---
 ## 🛠️ Tech Stack
 
@@ -116,4 +119,8 @@ online-catering-portal/
 ---
 <p align="center">
   💡 "Code. Build. Scale. Repeat." 🚀
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAB&size=24&center=true&vCenter=true&width=600&lines=Code.+Build.+Scale.;Keep+Learning+🚀" />
 </p>
