@@ -30,9 +30,6 @@
 * 🗄️ MySQL Database Integration
 * ⚡ Dynamic Content Rendering
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
-</p>
 ---
 ## 🛠️ Tech Stack
 
@@ -45,6 +42,9 @@
 | 🗄️ MySQL     | Database      |
 | 🖥️ XAMPP     | Local Server  |
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+</p>
 ---
 ## 📸 Preview
 
@@ -117,9 +117,6 @@ online-catering-portal/
 ---
 ## 🌟 Show Your Support
 ---
-<p align="center">
-  💡 "Code. Build. Scale. Repeat." 🚀
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAB&size=24&center=true&vCenter=true&width=600&lines=Code.+Build.+Scale.;Keep+Learning+🚀" />
